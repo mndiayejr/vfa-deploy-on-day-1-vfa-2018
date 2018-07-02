@@ -30,24 +30,24 @@ You'll have the whole workshop to complete this lab. Use that time to get to kno
 
 Please collect the following content from your assigned partner for their profile. This content doesn't have to be finalized, but you need something. They'll be using this content as the project evolves for their resume and other profiles online.
 
-* Name
-* Github Username
+* Name: Daisy Homolka 
+* Github Username: dhomolka
 * Blog Url (if they don't already have a blog, we'll set one up at their-github-username.github.io)
-* Tagline
+* Tagline: Daised & Confused 
 * Profile Picture (something semi-professional, a headshot, of a good reusable size that can be easily cropped)
 * Background Picture
-* Favorite Websites
-* Previous Work Experience
-* Short Bio
-* Twitter URL
-* LinkedIn URL
-* Education
+* Favorite Websites: Youtube, Wikipedia 
+* Previous Work Experience: Goldman Sachs Securities Division 
+* Short Bio: Asheville, NC. I went to Barnard College and majored in Economics and Mathematics. I love to dance and decorate my house. 
+* Twitter URL: https://twitter.com/search?q=%40daisyhomolkie&src=typd
+* LinkedIn URL: https://www.linkedin.com/in/daisy-homolka-443760103/
+* Education: Banard College 
 
 ### Background and Profile Images
 
 **Instead of manually adding image files to our project, we will be uploading our images to imgur.com (a free image hosting site), and linking to the images respective URLs in our css file.**
 
-* Select your cover and profile pictures
+* Select your cover and profile pictures: https://imgur.com/a/j2jq815
 * Upload your cover and profile pictures to imgur (they should be jpg or png files):
   * Head to <a href="https://imgur.com/upload/" target="_blank">imgur.com/upload</a> and upload your profile and cover images
   * After you upload each image, copy the **direct link** URL and paste that somewhere safe. **You will need to use these links in the `css/styles.css` file to be able to display the images in your profile**.
